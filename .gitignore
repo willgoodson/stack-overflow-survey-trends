@@ -1,0 +1,4 @@
+.DS_Store
+**/venv
+**/survey_results_public.csv
+**/survey_results_schema.csv
